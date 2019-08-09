@@ -1,4 +1,4 @@
-class ContentCleanupService
+class ContentCleneupSurvice
   def initialize(blog)
     @blog = blog
     @content = blog.content
