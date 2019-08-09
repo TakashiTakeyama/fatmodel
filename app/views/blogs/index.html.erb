@@ -1,7 +1,8 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Blogs</h1>
-
+<%= day_of_the_week_character_helper %>
+<%= render 'latest_infomation', article_number: @blogs.count %>
 <table>
   <thead>
     <tr>
