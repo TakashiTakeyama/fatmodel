@@ -2,133 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce3f18b-37b1-4d4f-885d-c8829cfcd4a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fatmodel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/blogs.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/topics.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/blogs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/topics.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/topics_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/blogs_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/topics_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/common_module.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/topic.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/_blog.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/index.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/blogs/show.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/_topic.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/index.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/topics/show.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/update" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/yarn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/credentials.yml.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/content_security_policy.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/spring.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/storage.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190809012054_create_topics.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20190809013006_create_blogs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/422.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/blogs_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/topics_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/blogs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/topics.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/helpers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/blog_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/topic_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/blogs_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/topics_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -145,52 +19,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/models/concerns/common_module.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/topics_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="74">
-                  <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/models/topic.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="24" selection-end-line="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/topic.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/validators/blog_validator.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,28 +56,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/controllers/topics_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/blog.rb" />
         <option value="$PROJECT_DIR$/app/models/concerns/common_module.rb" />
         <option value="$PROJECT_DIR$/app/models/topic.rb" />
+        <option value="$PROJECT_DIR$/app/validators/blog_validator.rb" />
+        <option value="$PROJECT_DIR$/app/models/blog.rb" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/fatmodel.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="850" />
-    <option name="y" value="23" />
     <option name="width" value="830" />
-    <option name="height" value="972" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -257,6 +103,12 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
               <item name="concerns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fatmodel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fatmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="validators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fatmodel" type="b2602c69:ProjectViewProjectNode" />
@@ -415,17 +267,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2040000" />
+    <option name="totallyTimeSpent" value="2939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="850" y="0" width="830" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18401015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -465,24 +318,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/concerns/common_module.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/topic.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-end-line="6" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/concerns/common_module.rb">
+    <entry file="file://$PROJECT_DIR$/app/validators/blog_validator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/blog.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
