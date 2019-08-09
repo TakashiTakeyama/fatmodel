@@ -1,9 +1,11 @@
 class Blog < ApplicationRecord
   # scope :latest, -> (number = 3){order(created_at: :desc).limit(number)}
   include CommonModule
-  validates_with BlogValidator
+  # validates_with BlogValidator
   # validate :title_more_write
   # validate :content_more_write
+
+  before_create BlogCallback.new
 
   # private
   # def title_more_write
@@ -17,4 +19,16 @@ class Blog < ApplicationRecord
   #     errors.add(:content, ": 20文字以上書きましょう")
   #   end
   # end
+  #
+  before_create :default_title
+  before_create :default_content
+
+  private
+  def default_title
+    self.title = 'タイトルなし' if self.title.blank?
+  end
+
+  def default_content
+    self.content = '内容なし' if self.content.blank?
+  end
 end
